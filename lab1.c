@@ -2,3 +2,9 @@
 void main()
 {
 }
+void push()
+{}
+void pop()
+{}
+void display()
+{}
